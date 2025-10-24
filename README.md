@@ -3,4 +3,4 @@
 - 💻 Developer.
 - 🌎 Based in Cabo de Santo Agostinho, Brazil.
 - 👩‍💻 Bachelor's Degree in Computer Science at [UFRPE](https://portal.ufrpe.br/) [02/09].
-- 🔋 Stack: C and Java.
+- 🔋 Stack: C, Java and Python.
