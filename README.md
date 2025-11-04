@@ -5,7 +5,7 @@
 - Bachelor's Degree in Computer Science at [UFRPE](https://portal.ufrpe.br/) [02/09].
 - Stack: C, Java and Python.
 
-## Technologies & Tools:
+## Language & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,git,github,vscode)](https://skillicons.dev)
 
@@ -16,5 +16,5 @@
 
 ## GitHub Statistics
 
-![Sarah's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sarahlimadev&show_icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlimadev&layout=compact&theme=shadow_green&hide_border=true&bg_color=222428&text_color=A7F5AA)](https://github.com/sarahlimadev/github-readme-statistics)
+![Sarah's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sarahlimadev&show_icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428&cache_seconds=3600)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlimadev&layout=compact&theme=shadow_green&hide_border=true&bg_color=222428&text_color=A7F5AA&cache_seconds=3600)](https://github.com/sarahlimadev/github-readme-statistics)
