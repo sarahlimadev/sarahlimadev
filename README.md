@@ -15,5 +15,5 @@
 
 ## GitHub Statistics
 
-![Sarah's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sarahlimadev&show_icons=true&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428&cache_seconds=3600)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlimadev&layout=compact&theme=shadow_green&hide_border=true&bg_color=222428&text_color=A7F5AA&cache_seconds=3600)](https://github.com/sarahlimadev/github-readme-statistics)
+![Sarah's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sarahlimadev&show_icons=true&hide_border=true&title_color=F72CAF&icon_color=F72CAF&text_color=ffffff&bg_color=0d1117)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlimadev&layout=compact&hide_border=true&title_color=F72CAF&text_color=ffffff&bg_color=0d1117)](https://github.com/sarahlimadev/github-readme-statistics)
