@@ -1,7 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72CAF&width=435&lines=Hello,+I'm+Sarah+Lima!)](https://git.io/typing-svg)
 
-- Developer.
-- Based in Cabo de Santo Agostinho, Brazil.
+- Developer in [The Intelligent Agents Blog](https://iablog.github.io/)
 - Bachelor's Degree in Computer Science at [UFRPE](https://portal.ufrpe.br/) [02/09].
 - Stack: C, Java and Python.
 
