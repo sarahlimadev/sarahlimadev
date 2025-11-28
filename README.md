@@ -15,5 +15,7 @@
 
 ## GitHub Statistics
 
-![Sarah's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sarahlimadev&show_icons=true&hide_border=true&title_color=F72CAF&icon_color=F72CAF&text_color=ffffff&bg_color=0d1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlimadev&layout=compact&hide_border=true&title_color=F72CAF&text_color=ffffff&bg_color=0d1117)](https://github.com/sarahlimadev/github-readme-statistics)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahlimadev&show_icons=true&hide_border=true&title_color=F72CAF&icon_color=F72CAF&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlimadev&layout=compact&hide_border=true&title_color=F72CAF&text_color=ffffff&bg_color=0d1117"/>
+</div>
