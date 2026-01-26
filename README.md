@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=F72CAF&lines=Hello,+I'm+Sarah+Lima!)](https://git.io/typing-svg)
 
 - Developer in [The Intelligent Agents Blog](https://iablog.github.io/)
-- Bachelor's Degree in Computer Science at [UFRPE](https://portal.ufrpe.br/br) [02/09].
+- Bachelor's Degree in Computer Science at [UFRPE](https://portal.ufrpe.br/br) [03/09].
 - **Stack**: *C*, *Java* and *Python*.
   
 ## Language and Tools:
